@@ -6,8 +6,8 @@ const thisListGroup = document.querySelector('.list-group');
 fetch("data/smartphones.json")
     .then(response => response.json())
     .then(data => {
-        allSmartphones = (data)
-    })
+        allSmartphones = (data);
+    });
 
 function RAMset(item) {
     let result = '';
@@ -26,7 +26,7 @@ function images(item) {
     let thisss = '';
     item.links.img.forEach(itm => {
         thisss += `<img  height="200px" src="${itm}" alt="">`;
-    })
+    });
     return thisss;
 }
 
@@ -37,8 +37,8 @@ function funct() {
         модель: ${item.model}, <br>процессор: ${item.CPU.model}, <br>частота: ${item.CPU.frequency} Мгц,<br> ОЗУ: ${
             RAMset(item) 
         }gb,<br>memory: ${item.memory}gb, <br>SIM: ${item.SIM}, <br>цвет: ${item.color.join(', ')}
-        </li>`)
-    })
+        </li>`);
+    });
 }
 
 // ,

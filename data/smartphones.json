@@ -11,13 +11,13 @@
                 "RAM": 3072,
                 "memory": 64,
                 "SIM": "nano SIM, 2 SIM-карта",
-                "color": ["сұры", "қара"],
+                "color": ["сұры", "black"],
                 "display": {
                     "diagonal": 6.53,
                     "size":"1600x720"
                     },
                 "camera": {
-                    "main": [13, 3, 3],
+                    "main": [13, 2, 2],
                     "frontal": 5,
                     "fps": 30
                 },
@@ -1453,6 +1453,216 @@
                 "price": 149990,
                 "rating": ""
             }
+        ],
+        "Samsung": [
+            {
+                "model": "",
+                "OS": "",
+                "CPU": {
+                    "model": "",
+                    "frequency": 
+                    },
+                "RAM": ,
+                "memory": ,
+                "SIM": "nano SIM, 2 SIM-карта",
+                "color": [""],
+                "display": {
+                    "diagonal": ,
+                    "size":""
+                    },
+                "camera": {
+                    "main": [ , , , ],
+                    "frontal": ,
+                    "fps": 
+                },
+                "battery": ,
+                "links": {
+                    "img": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "video": ""
+                },
+                "price": ,
+                "rating": ""
+            },
+        ],
+        "Apple": [
+            {
+                "model": "",
+                "OS": "",
+                "CPU": {
+                    "model": "",
+                    "frequency": 
+                    },
+                "RAM": ,
+                "memory": ,
+                "SIM": "nano SIM, 2 SIM-карта",
+                "color": [""],
+                "display": {
+                    "diagonal": ,
+                    "size":""
+                    },
+                "camera": {
+                    "main": [ , , , ],
+                    "frontal": ,
+                    "fps": 
+                },
+                "battery": ,
+                "links": {
+                    "img": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "video": ""
+                },
+                "price": ,
+                "rating": ""
+            },
+        ],
+        "Meizu": [
+            {
+                "model": "",
+                "OS": "",
+                "CPU": {
+                    "model": "",
+                    "frequency": 
+                    },
+                "RAM": ,
+                "memory": ,
+                "SIM": "nano SIM, 2 SIM-карта",
+                "color": [""],
+                "display": {
+                    "diagonal": ,
+                    "size":""
+                    },
+                "camera": {
+                    "main": [ , , , ],
+                    "frontal": ,
+                    "fps": 
+                },
+                "battery": ,
+                "links": {
+                    "img": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "video": ""
+                },
+                "price": ,
+                "rating": ""
+            },
+        ],
+        "Huawei": [
+            {
+                "model": "",
+                "OS": "",
+                "CPU": {
+                    "model": "",
+                    "frequency": 
+                    },
+                "RAM": ,
+                "memory": ,
+                "SIM": "nano SIM, 2 SIM-карта",
+                "color": [""],
+                "display": {
+                    "diagonal": ,
+                    "size":""
+                    },
+                "camera": {
+                    "main": [ , , , ],
+                    "frontal": ,
+                    "fps": 
+                },
+                "battery": ,
+                "links": {
+                    "img": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "video": ""
+                },
+                "price": ,
+                "rating": ""
+            },
+        ],
+        "OnePlus": [
+            {
+                "model": "",
+                "OS": "",
+                "CPU": {
+                    "model": "",
+                    "frequency": 
+                    },
+                "RAM": ,
+                "memory": ,
+                "SIM": "nano SIM, 2 SIM-карта",
+                "color": [""],
+                "display": {
+                    "diagonal": ,
+                    "size":""
+                    },
+                "camera": {
+                    "main": [ , , , ],
+                    "frontal": ,
+                    "fps": 
+                },
+                "battery": ,
+                "links": {
+                    "img": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "video": ""
+                },
+                "price": ,
+                "rating": ""
+            },
+        ],
+        "Oppo": [
+            {
+                "model": "",
+                "OS": "",
+                "CPU": {
+                    "model": "",
+                    "frequency": 
+                    },
+                "RAM": ,
+                "memory": ,
+                "SIM": "nano SIM, 2 SIM-карта",
+                "color": [""],
+                "display": {
+                    "diagonal": ,
+                    "size":""
+                    },
+                "camera": {
+                    "main": [ , , , ],
+                    "frontal": ,
+                    "fps": 
+                },
+                "battery": ,
+                "links": {
+                    "img": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "video": ""
+                },
+                "price": ,
+                "rating": ""
+            },
         ]
     }
 }
