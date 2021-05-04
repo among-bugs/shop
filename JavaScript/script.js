@@ -1,3 +1,5 @@
 "use strict";
 
-setTimeout(funct, 1200);
+//setTimeout(funct, 1200);
+
+

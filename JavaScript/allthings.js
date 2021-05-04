@@ -22,6 +22,8 @@ function RAMset(item) {
     return result;
 }
 
+
+
 function images(item) {
     let thisss = '';
     item.links.img.forEach(itm => {
