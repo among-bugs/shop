@@ -14,7 +14,7 @@ const allSmartphones = {
                   "RAM": 3072,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["сұры", "black"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"1600x720"
@@ -47,7 +47,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["сұры", "қара"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -80,7 +80,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["green"],
+                  "color": "green",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -110,7 +110,7 @@ const allSmartphones = {
                   "RAM": 2048,
                   "memory": 32,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["сұры", "қара"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"1600x720"
@@ -143,7 +143,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["сұры", "қара"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -176,7 +176,7 @@ const allSmartphones = {
                   "RAM": 2048,
                   "memory": 32,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["сұры", "қара"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"1600x720"
@@ -209,7 +209,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["сұры", "қара"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -242,7 +242,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["сұры"],
+                  "color": "dark",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -274,7 +274,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark"],
+                  "color": "dark",
                   "display": {
                       "diagonal": 6.43,
                       "size":"2400x1080"
@@ -305,7 +305,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["green"],
+                  "color": "green",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -370,7 +370,7 @@ const allSmartphones = {
                   "RAM": 2048,
                   "memory": 32,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["green"],
+                  "color": "green",
                   "display": {
                       "diagonal": 6.53,
                       "size":"1600x720"
@@ -401,7 +401,7 @@ const allSmartphones = {
                   "RAM": 2048,
                   "memory": 32,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark", "black"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"1600x720"
@@ -431,7 +431,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["black"],
+                  "color": "black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -464,7 +464,7 @@ const allSmartphones = {
                   "RAM": 6144,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["green"],
+                  "color": "green",
                   "display": {
                       "diagonal": 6.67,
                       "size":"2400x1080"
@@ -497,7 +497,7 @@ const allSmartphones = {
                   "RAM": 6144,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark"],
+                  "color": "dark",
                   "display": {
                       "diagonal": 6.67,
                       "size":"2400x1080"
@@ -530,7 +530,7 @@ const allSmartphones = {
                   "RAM": 3072,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["blue"],
+                  "color": "blue",
                   "display": {
                       "diagonal": 6.53,
                       "size":"1600x720"
@@ -560,7 +560,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark", "black"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -592,7 +592,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["blue"],
+                  "color": "blue",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -624,7 +624,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["blue"],
+                  "color": "blue",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -656,7 +656,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark"],
+                  "color": "dark",
                   "display": {
                       "diagonal": 6.67,
                       "size":"2400x1080"
@@ -688,7 +688,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["white"],
+                  "color": "white",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -720,7 +720,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark"],
+                  "color": "dark",
                   "display": {
                       "diagonal": 6.43,
                       "size":"2400x108"
@@ -751,7 +751,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark", "black"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.43,
                       "size":"2400x1080"
@@ -782,7 +782,7 @@ const allSmartphones = {
                   "RAM": 3072,
                   "memory": 32,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark"],
+                  "color": "dark",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -848,7 +848,7 @@ const allSmartphones = {
                   "RAM": 3072,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["green"],
+                  "color": "green",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -881,7 +881,7 @@ const allSmartphones = {
                   "RAM": 8192,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["black"],
+                  "color": "black",
                   "display": {
                       "diagonal": 6.67,
                       "size":"2400x1080"
@@ -914,7 +914,7 @@ const allSmartphones = {
                   "RAM": 8192,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark"],
+                  "color": "dark",
                   "display": {
                       "diagonal": 6.67,
                       "size":"2400x1080"
@@ -946,7 +946,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["green"],
+                  "color": "green",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -978,7 +978,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["blue"],
+                  "color": "blue",
                   "display": {
                       "diagonal": 6.3,
                       "size":"2340x1080"
@@ -1011,7 +1011,7 @@ const allSmartphones = {
                   "RAM": 6144,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["black"],
+                  "color": "black",
                   "display": {
                       "diagonal": 6.55,
                       "size":"1080x2400"
@@ -1044,7 +1044,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark", "black"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -1076,7 +1076,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark", "black"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -1108,7 +1108,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["green"],
+                  "color": "green",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -1141,7 +1141,7 @@ const allSmartphones = {
                   "RAM": 8192,
                   "memory": 256,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark", "black"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.67,
                       "size":"2400x1080"
@@ -1173,7 +1173,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark", "black"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.53,
                       "size":"2340x1080"
@@ -1205,7 +1205,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["dark", "black"],
+                  "color": "dark, black",
                   "display": {
                       "diagonal": 6.67,
                       "size":"2400x1080"
@@ -1238,7 +1238,7 @@ const allSmartphones = {
                   "RAM": 6144,
                   "memory": 128,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["blue"],
+                  "color": "blue",
                   "display": {
                       "diagonal": 6.56,
                       "size":"2400x1080"
@@ -1271,7 +1271,7 @@ const allSmartphones = {
                   "RAM": 4096,
                   "memory": 64,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["green"],
+                  "color": "green",
                   "display": {
                       "diagonal": 6.43,
                       "size":"2400x1080"
@@ -1303,7 +1303,7 @@ const allSmartphones = {
                   "RAM": 12288,
                   "memory": 256,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["black"],
+                  "color": "black",
                   "display": {
                       "diagonal": 6.67,
                       "size":"2400x1080"
@@ -1367,7 +1367,7 @@ const allSmartphones = {
                   "RAM": 8192,
                   "memory": 256,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["blue"],
+                  "color": "blue",
                   "display": {
                       "diagonal": 6.67,
                       "size":"2400x1080"
@@ -1400,7 +1400,7 @@ const allSmartphones = {
                   "RAM": 8192,
                   "memory": 256,
                   "SIM": "nano SIM, 2 SIM-карта",
-                  "color": ["green"],
+                  "color": "green",
                   "display": {
                       "diagonal": 6.67,
                       "size":"2348x1080"
@@ -1483,12 +1483,7 @@ const selectedPuttingSmartphonesList =
       document.getElementById('all-smartphones-list');
 
 function thisfunct() {
-//      fetch("smartphones.json")
-//      .then(response => response.json())
-//      .then(datas => {
-//          allSmartphones = (datas);
-//      });
-  
+
       allSmartphones.brands.Xiaomi.forEach( (item, i) => {
         selectedPuttingSmartphonesList.innerHTML += 
         `<div class="col-md-3">
@@ -1516,7 +1511,215 @@ function thisfunct() {
       });
 }
 
+
+    let whenRAMis2 = [], whenRAMis3 = [],
+        whenRAMis4 = [], whenRAMis8 = [];
+
+    let whenMemoryIs32 = [], whenMemoryIs64 = [],
+        whenMemoryIs128 = [], whenMemoryIs256 = [];
+    
+    let whenBatteryIs4000 = [], whenBatteryIs4250 = [],
+        whenBatteryIs4720 = [], whenBatteryIS5000 = [],
+        whenBatteryIs5020 = [], whenBatteryIs6000 = [];
+    
+    let whenMainCameraCountQty = {
+        is: {
+            one: [],
+            two: [],
+            three: [],
+            four: []
+        }
+    }
+
+    let whenCameraFPS = {
+        is: {
+            thirty: [],
+            sixty: []
+        }
+    }
+
+    let whenFrontalCameraMegaPixel = {
+        is5: [],
+        is8: [],
+        is13: [],
+        is16: [],
+        is18: [],
+        is20: [],
+        is50: []
+    }
+
+    let whenColor = {
+        is: {
+            black: [],
+            blue: [],
+            dark: [],
+            white: [],
+            green: [],
+            violet: [],
+            brown: [],
+            darkAndBlack: []
+        }
+    }
+    allSmartphones.brands.Xiaomi.forEach((item, i) => {
+        switch (item.RAM) {
+        case 2048: whenRAMis2.push(item);
+            break;
+        case 3072: whenRAMis3.push(item);
+            break;
+        case 4096: whenRAMis4.push(item);
+            break;
+        case 8192: whenRAMis8.push(item);
+            break;
+        }
+
+        switch (item.memory) {
+            case 32: whenMemoryIs32.push(item);
+                break;
+            case 64: whenMemoryIs64.push(item);
+                break;
+            case 128: whenMemoryIs128.push(item);
+                break;
+            case 256: whenMemoryIs256.push(item);
+                break;
+        }
+
+        switch (item.battery) {
+            case 4000: whenBatteryIs4000.push(item);
+                break;
+            case 4250: whenBatteryIs4250.push(item);
+                break;
+            case 4720: whenBatteryIs4720.push(item);
+                break;
+            case 5000: whenBatteryIS5000.push(item);
+                break;
+            case 5020: whenBatteryIs5020.push(item);
+                break;
+            case 6000: whenBatteryIs6000.push(item);
+                break;
+        }
+
+        switch (item.camera.main.length) {
+            case 1: whenMainCameraCountQty.is.one.push(item);
+                break;
+            case 2: whenMainCameraCountQty.is.two.push(item);
+                break;
+            case 3: whenMainCameraCountQty.is.three.push(item);
+                break;
+            case 4: whenMainCameraCountQty.is.four.push(item);
+                break;
+        }
+
+        switch (item.camera.fps) {
+            case 30: whenCameraFPS.is.thirty.push(item);
+                break;
+            case 60: whenCameraFPS.is.sixty.push(item);
+                break;
+        }
+
+        switch (item.camera.frontal) {
+            case 5: whenFrontalCameraMegaPixel.is5.push(item);
+                break;
+            case 8: whenFrontalCameraMegaPixel.is8.push(item);
+                break;
+            case 13: whenFrontalCameraMegaPixel.is13.push(item);
+                break;
+            case 18: whenFrontalCameraMegaPixel.is18.push(item);
+                break;
+            case 20: whenFrontalCameraMegaPixel.is20.push(item);
+                break;
+            case 50: whenFrontalCameraMegaPixel.is50.push(item);
+                break;
+        }
+
+        switch (item.color) {
+            case "black": whenColor.is.black.push(item);
+                console.log(item);
+                break;
+            case "blue": whenColor.is.blue.push(item);
+            console.log(item);
+                break;
+            case "white": whenColor.is.white.push(item);
+            console.log(item);
+                break;
+            case "dark": whenColor.is.dark.push(item);
+            console.log(item);
+                break;
+            case "green": whenColor.is.green.push(item);
+            console.log(item);
+                break;
+            case "violet": whenColor.is.violet.push(item);
+            console.log(item);
+                break;
+            case "brown": whenColor.is.brown.push(item);
+                console.log(item);
+                break;
+            case "dark, black": whenColor.is.darkAndBlack.push(item);
+                console.log(item);
+                break;            
+        }
+    });
+
+    const sortedAllSmartPhones = {
+        when: {
+            RAM: {
+                is2: whenRAMis2,
+                is3: whenRAMis3,
+                is4: whenRAMis4,
+                is8: whenRAMis8
+            },
+            Memory: {
+                is32: whenMemoryIs32,
+                is64: whenMemoryIs64,
+                is128: whenMemoryIs128,
+                is256: whenMemoryIs256
+            },
+            Battery: {
+                is4000: whenBatteryIs4000,
+                is4250: whenBatteryIs4250,
+                is4720: whenBatteryIs4720,
+                is5000: whenBatteryIS5000,
+                is5020: whenBatteryIs5020,
+                is6000: whenBatteryIs6000
+            },
+            Camera:
+                {
+                    mainQty: {
+                        is1: whenMainCameraCountQty.is.one,
+                        is2: whenMainCameraCountQty.is.two,
+                        is3: whenMainCameraCountQty.is.three,
+                        is4: whenMainCameraCountQty.is.four
+                    },
+                    frontalMegaPixel: {
+                        is5: whenFrontalCameraMegaPixel.is5,
+                        is8: whenFrontalCameraMegaPixel.is8,
+                        is13: whenFrontalCameraMegaPixel.is13,
+                        is18: whenFrontalCameraMegaPixel.is18,
+                        is20: whenFrontalCameraMegaPixel.is20,
+                        is50: whenFrontalCameraMegaPixel.is50
+                    }
+                },
+            Colors: {
+                black: whenColor.is.black,
+                blue: whenColor.is.blue,
+                dark: whenColor.is.dark,
+                white: whenColor.is.white,
+                green: whenColor.is.green,
+                violet: whenColor.is.violet,
+                brown: whenColor.is.brown,
+                darkAndBlack: whenColor.is.darkAndBlack
+            }
+
+        }
+    }
+
+
     setTimeout(thisfunct, 1200);
 
     console.log(allSmartphones);
     console.log(selectedPuttingSmartphonesList);
+
+    
+
+    function sorting(color) {
+        if (color == )
+    }
